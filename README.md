@@ -13,6 +13,7 @@ Este proyecto es un clon de la interfaz de incio de Pinterst, creado puramente c
 + **Gogle Icons:** Para iconos personalizados.
 
 ## Vista Previa del Proyecto
+![Demo](/Imagenes/vistaprevia.png)
 
 ## Contacto
-Janeth Cortes: []
+Janeth Cortes:[]
